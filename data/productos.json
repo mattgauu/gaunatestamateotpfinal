@@ -1,0 +1,7 @@
+[
+    { "id": "SHORT", "nombre": "SHORT", "precio": 15000 , "img": "../assets/remera.webp"},
+    { "id": "REMERA", "nombre": "REMERA", "precio": 25000 , "img": "../assets/remera.webp"},
+    { "id": "CAMISA", "nombre": "CAMISA", "precio": 35000 , "img": "../assets/"},
+    { "id": "PANTALON", "nombre": "PANTALON", "precio": 45000, "img": "../assets/"},
+    { "id": "CAMPERA", "nombre": "CAMPERA", "precio": 45000, "img": "../assets/"}
+]
